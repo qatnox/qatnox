@@ -4,8 +4,8 @@ Header
 
 ### **Languages and Tools**
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=oracle&logoColor=ff2700)
-![Spring Framework](https://img.shields.io/badge/Spring-ffffff?style=for-the-badge&logo=Spring&logoColor=75e935)
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=Git&logoColor=ff4600)
+![Spring Framework](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=75e935)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=ff4600)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
 ### Social Media
@@ -16,4 +16,4 @@ Header
 
 ### Additional
 [![qatnox's GitHub stats](https://github-readme-stats.vercel.app/api?username=qatnox&show_icons=true&theme=tokyonight)](https://github.com/qatnox)
-[![Top Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qatnox&theme=tokyonight)](https://github.com/qatnox/qatnox)
+[![Top Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qatnox&theme=tokyonight)](https://github.com/qatnox)
