@@ -3,7 +3,7 @@
 ## **I am a beginner Java Developer**
 
 #### 💻My name is Pavlo and I am learning Java and its technologies. Have several pet-projects. Some of them you can find on my profile.
-### 🚀 My Projects
+### 🚀 My Main Projects
 
 - _Password Generator:_ This project is a password generator, developed on Java. This tool allows to create strong and unique passwords up to 40 symbols.
 - _Corporate Emails Generator:_ It is a Java project designed to simplify the creation of corporate email accounts. Uses the icu4j library to transliterate data.
@@ -22,10 +22,12 @@
 
 ### **Languages and Tools**
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=oracle&logoColor=ff2700)
+![INTELLIJ IDEA](https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=75e935)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=ff4600)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![UBUNTU](https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=orange)
+
 
 ****
 
